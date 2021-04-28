@@ -65,3 +65,6 @@ canvas {
 .submenu-option.selected {
   color: var(--theme-color-3);
 }
+.hidden{
+  display:none;
+}
